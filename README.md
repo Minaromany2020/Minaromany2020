@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)]
 <h1 align="center">Hi 👋, I'm Mina Romany</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" width="400" alt="Cooding" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
